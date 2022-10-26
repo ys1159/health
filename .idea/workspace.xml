@@ -5,101 +5,91 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8613b9d-5c5f-4305-9e23-19fd19a7144b" name="默认变更列表" comment="first">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/health_backend_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/health_backend_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/health_service_provider_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/health_service_provider_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_19_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_happy_dns_java_0_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_18_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_18_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_12_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/health_backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_common/health_common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_interface/health_interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_interface/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_service_provider/health_service_provider.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_service_provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_service_provider/src/main/resources/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_service_provider/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_service_provider/src/main/resources/spring-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_service_provider/src/main/resources/spring-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_service_provider/src/main/resources/spring-tx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_service_provider/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/health-parent/health_service_provider/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/css/orderset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/american-express.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/avatar04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/avatar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/avatar3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/avatar5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/boxed-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/boxed-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/cirrus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/loginLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/logingBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/mastercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/mestro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/minilogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/paypal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/photo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/photo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/photo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/photo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/pwd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/user1-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/user2-160x160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/user3-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/user4-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/user5-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/user6-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/user7-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/user8-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/img/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/js/axios-0.18.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/js/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/pages/checkitem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/pages/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/plugins/elementui/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/plugins/elementui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/plugins/elementui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/constant/MessageConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/entity/PageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/entity/QueryPageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/pojo/CheckGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/pojo/CheckItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/pojo/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/pojo/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/pojo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/pojo/OrderSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/pojo/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/pojo/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/pojo/Setmeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health-parent/health_common/src/main/java/com/pojo/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health-parent/health-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/health-parent/health-parent.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health-parent/health_backend/health_backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/health-parent/health_backend/health_backend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health-parent/health_backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health-parent/health_backend/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -107,7 +97,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/maven-3.3.9/apache-maven-3.3.9" />
+        <option name="mavenHome" value="D:\maven-3.3.9\apache-maven-3.3.9" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -120,13 +110,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/health-parent/health_backend/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/health-parent/health_backend/src/main/webapp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -140,7 +131,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86188\Desktop\java-Reggie+health\health\health-parent\health_backend\src\main\webapp" />
+      <recent name="C:\Users\86188\Desktop\java-Reggie+health\health\health-parent\health_backend\src\main\webapp\plugins\elementui" />
+      <recent name="C:\Users\86188\Desktop\java-Reggie+health\health\health-parent\health_common\src\main\java\com\entity" />
+      <recent name="C:\Users\86188\Desktop\java-Reggie+health\health\health-parent\health_common\src\main\java\com\pojo" />
       <recent name="C:\Users\86188\Desktop\java-Reggie+health\health\health-parent\health_backend\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86188\Desktop\java-Reggie+health\health\health-parent\health_backend\src\main\webapp\plugins\font-awesome\css" />
     </key>
   </component>
   <component name="RunManager">
@@ -157,6 +155,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="health_backend [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/health-parent/health_backend" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.health_backend [tomcat7:run]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -167,7 +195,9 @@
       <option name="presentableId" value="Default" />
       <updated>1665998281968</updated>
       <workItem from="1665998283123" duration="1673000" />
-      <workItem from="1666000001572" duration="4874000" />
+      <workItem from="1666000001572" duration="10791000" />
+      <workItem from="1666788670487" duration="2481000" />
+      <workItem from="1666791267786" duration="2282000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1665998668216</created>
@@ -176,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665998668216</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first">
+      <created>1666011723844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666011723844</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +229,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -201,5 +239,12 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="ZooKeeperConfig">
+    <option name="host" value="127.0.0.1" />
+    <option name="port" value="2181" />
+    <option name="charset" value="UTF-8" />
+    <option name="whitePaths" value="" />
+    <option name="enabled" value="true" />
   </component>
 </project>
